@@ -3,10 +3,8 @@
   <h1>Hey, I'm <a href="https://www.linkedin.com/in/yomna-mohamed-240597202/" target="_blank">Yomna Mohamed!</a> 👋</h1>
   <h3>A passionate Full-stack Developer from Egypt 🇪🇬</h3>
   
-  <a href="https://badges.pufler.dev">
-    <img src="https://badges.pufler.dev/repos/Yomna-elshorbagy" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=Yomna-elshorbagy&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" draggable="false"/>
+[![Repos Badge](https://badges.pufler.dev/repos/Yomna-Elshorbagy)](https://badges.pufler.dev)
+<img src="https://komarev.com/ghpvc/?username=Yomna-Elshorbagy&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" draggable="false"/>
 </div>
 <br/>
 

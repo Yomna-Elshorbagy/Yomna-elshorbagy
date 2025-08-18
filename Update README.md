@@ -52,7 +52,6 @@
   <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" alt="css3" /></code>
   <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" width="40" alt="bootstrap" /></code>
   <code><img src="https://m.svgmix.com/uploads/77f863-tailwindcss.svg" width="100" height="40" alt="tailwindcss" /></code>
-  <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" alt="react" /></code>
 
 
   <!-- Backend -->

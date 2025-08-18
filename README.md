@@ -3,14 +3,11 @@
   <h1>Hey, I'm <a href="https://www.linkedin.com/in/yomna-mohamed-240597202/" target="_blank">Yomna Mohamed!</a> 👋</h1>
   <h3>A passionate Full-stack Developer from Egypt 🇪🇬</h3>
   
-[![Repos Badge](https://badges.pufler.dev/repos/Yomna-Elshorbagy)](https://badges.pufler.dev)
 <img src="https://komarev.com/ghpvc/?username=Yomna-Elshorbagy&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" draggable="false"/>
 </div>
 <br/>
-
 <!-- Contact & Social Links -->
 <div align="center">
-
   <a href="mailto:Yumnamohamed30@gmail.com">
     <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="30" alt="Email" draggable="false"/>
   </a> &nbsp; 
@@ -36,8 +33,6 @@
 - 🏃 Passionate about Web Performance, Competitive Programming, and Computer Vision  
 - 🚀 Currently focused on building high-quality web applications using Angular & Node.js  
 - 🍀 Always open to collaborate on interesting projects or help out others!
-
-  <br/>
 
 <!-- Skills Section -->
 ## 🧰 Languages and Tools:

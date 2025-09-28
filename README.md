@@ -16,7 +16,7 @@
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30" alt="LinkedIn" draggable="false"/>
   </a> &nbsp;
   
-  <a href="https://www.instagram.com/yomna_mohamd/" target="_blank">
+  <a href="https://www.instagram.com/yomna_elshorbagyy/" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/1384/1384063.png" width="30" alt="Instagram" draggable="false"/>
   </a> &nbsp;
   
@@ -40,14 +40,14 @@
 <div align="center">
   
   <!-- Frontend -->
-  <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" width="40" alt="angular" /></code> 
+  <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" width="40" alt="angular" /></code>
+  <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" alt="react" /></code>
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" alt="typescript"/></code>
   <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" alt="javascript" /></code>
   <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" alt="html5" /></code>
   <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" alt="css3" /></code>
   <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" width="40" alt="bootstrap" /></code>
   <code><img src="https://m.svgmix.com/uploads/77f863-tailwindcss.svg" width="100" height="40" alt="tailwindcss" /></code>
-
 
   <!-- Backend -->
   <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" alt="nodejs" /></code>

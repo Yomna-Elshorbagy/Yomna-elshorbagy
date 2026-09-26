@@ -1,8 +1,10 @@
 <!-- Profile Header -->
 <div align="center">
-  <h1>Hey, I'm <a href="https://www.linkedin.com/in/yomna-mohamed-240597202/" target="_blank">Yomna Mohamed!</a> 👋</h1>
-  <h3>A passionate Full-stack Developer from Egypt 🇪🇬</h3>
-  
+ 
+# 👋 Hi, I'm <a href="https://www.linkedin.com/in/yomna-mohamed-240597202/">Yomna Mohamed</a>
+
+### Full-Stack Developer | React • Node.js • TypeScript • JavaScript
+
 <img src="https://komarev.com/ghpvc/?username=Yomna-Elshorbagy&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" draggable="false"/>
 </div>
 <br/>
@@ -26,14 +28,20 @@
 </div>
 
 ---
-<!-- About Me -->
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> About Me
+## 👩‍💻 About Me
 
-- 🎓 Graduated from Business Information System, Tanta University  
-- 🏃 Passionate about Web Performance, Competitive Programming, and Computer Vision  
-- 🚀 Currently focused on building high-quality web applications using Angular & Node.js  
-- 🍀 Always open to collaborate on interesting projects or help out others!
+I'm a **Full-Stack Developer** with a strong academic background in Business Information Systems and hands-on experience building modern web applications.
 
+* 🎓 BIS Graduate **Grade: A - Rank: 9th** 
+* 💻 Experienced in **React, Node.js, TypeScript, and JavaScript**
+* 🚀 Interested in **scalable backend systems, APIs, web performance, and AI-powered applications**
+* 🤖 Experienced in integrating **AI APIs and AI-driven features** into web applications
+* 🧩 Strong interest in **clean code, SOLID principles, data structures, and software design**
+* 🌱 Continuously learning and exploring new technologies
+* 👥 Team Lead experience through 4 ITI Projects
+* 🤝 Open to collaborating on meaningful and challenging projects
+
+---
 <!-- Skills Section -->
 ## 🧰 Languages and Tools:
 
@@ -47,7 +55,7 @@
   <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" alt="html5" /></code>
   <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" alt="css3" /></code>
   <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" width="40" alt="bootstrap" /></code>
-  <code><img src="https://m.svgmix.com/uploads/77f863-tailwindcss.svg" width="100" height="40" alt="tailwindcss" /></code>
+  <code>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="40" title="Tailwind CSS"/></code>
 
   <!-- Backend -->
   <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" alt="nodejs" /></code>
@@ -71,7 +79,10 @@
 ## 📊 GitHub Stats
 
 <div align="center">
- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Yomna-elshorbagy&show_icons=true&locale=en&layout=compact" alt="Yomna-elshorbagy" /></p>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yomna-Elshorbagy&theme=default" width="48%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Yomna-Elshorbagy&theme=default" width="48%" />
+
 </div>
 
 ---
